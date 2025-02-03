@@ -1,4 +1,0 @@
-#Tue Jun 13 21:44:20 ICT 2023
-base.0=E\:\\data cholis\\MBKM SEMESTER 6\\FLUTTER ALTERRA\\Capstoneflutter\\mobile_flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
